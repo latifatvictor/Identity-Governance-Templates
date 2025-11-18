@@ -202,5 +202,27 @@ Define how changes to this access package are managed.
 
 ### Examples of changes:
 • Adding a new resource  
-• Upda
+• Updating approval workflows  
+• Changing duration settings  
+• Removing a deprecated resource  
+
+---
+
+# 10. Attachments & Evidence
+
+Attach or reference:
+• Resource documentation  
+• App owner lists  
+• Group membership exports  
+• Access logs  
+• Review summaries  
+• Workflow diagrams  
+
+---
+
+# ✔ Summary
+
+This Access Package Template standardises how enterprise access is bundled, governed and assigned using Microsoft Entra ID.  
+
+It improves security, compliance, and operational efficiency by ensuring requests, approvals, and lifecycle management follow structured governance controls.
 
